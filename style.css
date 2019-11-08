@@ -1,0 +1,111 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family:'McLaren', serif;
+}
+hr
+{
+  width:3%;
+  border:dotted;
+  border-bottom:none;
+  color:#EAF6F6;
+}
+.topcontainer
+{
+padding-top:100px;
+position: relative;
+background-color: #eaf6f6;
+}
+h1{
+  margin:0;
+  font-family:'Yeon+Sung', serif;
+  font-size: 2.5rem;
+
+}
+
+h2,h1
+{
+  color:#66BFBF;
+}
+a
+{
+    color:#11999e;
+
+}
+.skill-row h3{
+    text-align: left;
+    color:#11999e;
+}
+.topcontainer p{
+  font-weight: normal;
+}
+.makesmall
+{
+border-radius:100%;
+width:200px;
+height:200px;
+}
+.middlecontainer
+{
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.topcloud
+{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.lowcloud
+{
+  position: absolute;
+  left:300px;
+}
+.profile,.skills,.contact-me
+{
+  padding:30px;
+}
+.computer
+{
+  float:left;
+  width:100px;
+  height:100px;
+  margin-right:20px;
+
+}
+.chillies
+{
+  float:right;
+  width:100px;
+  height:100px;
+  margin-left:20px;
+}
+.skills
+{
+  width:50%;
+  margin:0 auto 0 auto;
+  height:300px;
+}
+.skill-row
+{
+  height: 100px;
+}
+.bottom-container p
+{
+  color:#eaf6f6;
+}
+.profile p
+{
+  color:#40514e;
+}
+button{
+  background-color: #eaf6f6;
+}
+a:hover{
+  color:gold;
+}
